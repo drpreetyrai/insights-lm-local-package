@@ -4,6 +4,9 @@
   <img src="https://www.theaiautomators.com/wp-content/uploads/2025/07/Group-2651.svg" alt="InsightsLM Logo" width="600"/>
 </p>
 
+https://www.youtube.com/watch?v=oN-4AxQvKgM&t=8698s
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/theaiautomators/insights-lm-public?style=social)](https://github.com/theaiautomators/insights-lm-public/stargazers)
 [![YouTube Video](https://img.shields.io/badge/YouTube-red)](https://www.youtube.com/watch?v=aj2FkaaL1co)
